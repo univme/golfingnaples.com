@@ -1,0 +1,80 @@
+[
+  {
+    "id": "arrowhead",
+    "name": "ArrowHead Golf Club",
+    "area": "North Naples",
+    "access": "Public",
+    "setting": "Daily-fee",
+    "tag": "A welcoming place to start",
+    "description": "Lake-lined fairways, a grass practice range, and a public-access round in North Naples.",
+    "note": "Public play is welcome. The club lists online reservations and phone booking four days ahead. Confirm your date directly.",
+    "source": "https://www.arrowheadgolfnaples.com/golf/faqs",
+    "url": "https://www.arrowheadgolfnaples.com/",
+    "phone": "2395961000"
+  },
+  {
+    "id": "tiburon",
+    "name": "Tibur\u00f3n Golf Club",
+    "area": "North Naples",
+    "access": "Public",
+    "setting": "Resort",
+    "tag": "Make a day of it",
+    "description": "A resort golf setting with Gold and Black courses and online tee-time booking.",
+    "note": "Resort setting with public booking available. Check which layout is offered on your date; rates change with demand.",
+    "source": "https://www.tiburonnaples.com/golf/dynamic-pricing",
+    "url": "https://www.tiburonnaples.com/golf/dynamic-pricing",
+    "phone": "2395932201"
+  },
+  {
+    "id": "lely-flamingo",
+    "name": "Lely Resort \u00b7 Flamingo",
+    "area": "East & South Naples",
+    "access": "Public",
+    "setting": "Resort",
+    "tag": "A resort round, without the stay",
+    "description": "One of Lely Resort\u2019s two courses open to the public. Choose the Flamingo when booking.",
+    "note": "Lely explicitly welcomes public play on Flamingo and Mustang. The Classics is a separate private course.",
+    "source": "https://www.lelyresortgolfandcountryclub.com/",
+    "url": "https://www.lelyresortgolfandcountryclub.com/",
+    "phone": null
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia Golf & Country Club",
+    "area": "Northeast Naples",
+    "access": "Public",
+    "setting": "Daily-fee",
+    "tag": "Room to find your rhythm",
+    "description": "An 18-hole public course with wide fairways and palm, pine, and cypress surroundings.",
+    "note": "The club lists online booking up to 30 days ahead and phone reservations up to two days ahead. Check current terms.",
+    "source": "https://www.valenciagolfandcountryclub.com/",
+    "url": "https://www.valenciagolfandcountryclub.com/",
+    "phone": "2393520777"
+  },
+  {
+    "id": "eagle-lakes",
+    "name": "Eagle Lakes Golf Club",
+    "area": "East & South Naples",
+    "access": "Public",
+    "setting": "Daily-fee",
+    "tag": "A little Old Florida",
+    "description": "Daily-fee golf with a lakeside layout, practice facilities, and an Everglades-influenced setting.",
+    "note": "Daily-fee access with direct online tee-time booking. Ask the golf shop about conditions, rental clubs, and the full cost of your round.",
+    "source": "https://www.eaglelakesgolfclub.net/",
+    "url": "https://www.eaglelakesgolfclub.net/",
+    "phone": "2397320034"
+  },
+  {
+    "id": "lely-mustang",
+    "name": "Lely Resort \u00b7 Mustang",
+    "area": "East & South Naples",
+    "access": "Public",
+    "setting": "Resort",
+    "tag": "Another side of Lely",
+    "description": "Explore Mustang, the other public-access layout at Lely Resort, south of central Naples.",
+    "note": "Public tee times are offered through Lely\u2019s official website. Choose Mustang and review the cancellation policy before paying.",
+    "source": "https://www.lelyresortgolfandcountryclub.com/",
+    "url": "https://www.lelyresortgolfandcountryclub.com/",
+    "phone": null
+  }
+]

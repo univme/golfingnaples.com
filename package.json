@@ -1,0 +1,1 @@
+{"name":"golfing-naples","version":"0.1.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/*.test.mjs","dev":"python3 -m http.server 3000 --directory site"},"engines":{"node":">=22"}}

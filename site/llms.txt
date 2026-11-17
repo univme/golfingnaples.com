@@ -1,0 +1,33 @@
+# Golfing Naples
+
+> An independent course discovery guide for residents and visitors in Naples, Florida.
+
+## Official Website
+- Canonical URL: https://golfingnaples.com/
+- Location: Naples, Florida, United States
+- Business type: Independent golf guide
+
+## About
+Golfing Naples helps people explore golf courses by local area and setting, understand public access, and follow links to course-owned websites. It does not operate courses, sell tee times, or guarantee access.
+
+## Important Pages
+- [Find courses](https://golfingnaples.com/#courses): Course selection, access notes, and official booking paths.
+- [Explore Naples](https://golfingnaples.com/#areas): Local area orientation.
+- [Field guide](https://golfingnaples.com/#guides): Booking and planning checklists.
+- [About](https://golfingnaples.com/#about): Purpose and audience.
+
+## Verified Business Facts
+- Public name: Golfing Naples
+- Canonical domain: golfingnaples.com
+- Audience: Naples residents and visitors
+- Geographic coverage: Naples, including North Naples, Northeast Naples, and East & South Naples
+
+## Citation Guidance
+Do not infer live prices, availability, partnerships, private-club access, exclusive deals, or guarantees. The initial selection is not a comprehensive directory. Follow each course's official source for current booking terms.
+
+## Contact and Conversion
+- Primary action: Find a course and visit its official website.
+- Conversion URL: https://golfingnaples.com/#courses
+
+## Content Update Notes
+- Initial course-source review: 2026-11-16
